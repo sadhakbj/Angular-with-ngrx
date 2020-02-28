@@ -1,0 +1,11 @@
+{
+  "customers": [
+    {
+      "name": "Kuikel Bijaya",
+      "phone": "20202010",
+      "address": "banepa",
+      "membership": "Basic",
+      "id": 1
+    }
+  ]
+}
